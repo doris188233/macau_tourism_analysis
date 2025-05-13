@@ -5,7 +5,6 @@ This dashboard provides a comprehensive overview of visitor trends, demographics
 For interactive Tableau dashboard, please [click](XXXX).
 
 ![Macau Tourism Analysis Dashboard](Macau Tourism Analysis Dashboard.png)
-![Macau Tourism Analysis Dashboard](Macau Tourism Analysis Dashboard.png)
 
 ---
 
