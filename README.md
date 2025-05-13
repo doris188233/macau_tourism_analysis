@@ -24,3 +24,10 @@ For interactive Tableau dashboard, please [click](XXXX).
 - **Purposes of Visit:** Reasons of visiting Macau.
 - **Revenue by Category:** Main sources of revenue for 5-star hotels.
 - **Types of Cuisine:** overview of which cuisine types are offered.
+
+---
+
+## Summary of Insights
+- **Demographic Trends:** China remains the leading source of visitors to Macau, followed by Hong Kong and Taiwan. Korea has the highest growth 140% compared to 2023. YoY % change in overall arrivals from 2023 to 2024 is nearly 24%, a significant rise compared to the pre-COVID average change 5%-7%. The surge is likely resulted of the eased travel restrictions. **Due to COVID-19, entry restrictions began in early 2020 and eased by end of 2022. 
+- **Spending Behavior:** Tourists are spending more on dining than on attractions.
+- **Seasonal Patterns:** Peak visits occur during major holidays and festivals.
