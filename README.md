@@ -29,5 +29,5 @@ For interactive Tableau dashboard, please [click](XXXX).
 
 ## Summary of Insights
 - **Demographic Trends:** China remains the leading source of visitors to Macau, followed by Hong Kong and Taiwan. Korea has the highest growth 140% compared to 2023. YoY % change in overall arrivals from 2023 to 2024 is nearly 24%, a significant rise compared to the pre-COVID average change 5%-7%. The surge is likely resulted of the eased travel restrictions. **Due to COVID-19, entry restrictions began in early 2020 and eased by end of 2022. 
-- **Spending Behavior:** Tourists are spending more on dining than on attractions.
-- **Seasonal Patterns:** Peak visits occur during major holidays and festivals.
+- **Demographic and Behavior:** Over 87% of visitors arrive by land, with Hong Kong and Macau guest numbers declining while South Korea shows explosive 100%+ YoY growth. The heat map reveals business travelers, MICE attendees, and events (darker shades) consistently spend more across all origin markets. 
+- **Spending & Expense Drivers:** In 5-star hotels, the top three revenue categories are room sales (46%), space rental (23%), and F&B (22%). Visitors tend to spend the most on accommodation and food. In 2023, revenue from Chinese cuisine experienced the highest increase with over a 35% rise, followed by local cafes at 18% and takeaway services at 14%.
