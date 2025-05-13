@@ -11,7 +11,16 @@ For interactive Tableau dashboard, please [click](XXXX).
 - **Total Hotel Guests:** The number of check-in guests in hotels.
 - **Total Revenue:** The total amount of income in a specific category.
 - **Total F&B Spending:** The total amount of money spent on food and drink.
-- **Total Visitor Spending:** The The total of money spent including Accommodation, Shopping, F&B, Tranports and Others.
-- **Spending Per Capita:** The average amount of money spent by each visitor from one country/ region.
-- **Percent of Total:** a subset of total.
-- **YoY % Change:** The growth or decline in a specific matrics from one year to the next.
+- **Total Visitor Spending:** The total spending including Accommodation, Shopping, F&B, Tranports and Others.
+- **Spending Per Capita:** The average amount spent by each visitor from one country or region.
+- **Percent of Total:** a subset of overall total.
+- **YoY % Change:** The growth or decline in a specific matrics from year to year.
+
+### Dimensions
+- **Visitor Demographics:** Origin(countries/ regions) for visitors.
+- **Types of Transport:** Means of entry (air, land, sea).
+- **Time Period:** segment data by year.
+- **Types of Expenses:** Breakdown of spending on Accommodation, Shopping, Shopping, F&B, Tranports and Others.
+- **Purposes of Visit:** Reasons of visiting Macau.
+- **Revenue by Category:** Main sources of revenue for 5-star hotels.
+- **Types of Cuisine:** overview of which cuisine types are offered.
