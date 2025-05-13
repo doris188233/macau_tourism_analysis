@@ -9,7 +9,7 @@ For interactive Tableau dashboard, please [click](XXXX).
 ### Metrics
 - **Total Arrivals:** The overall number of tourists visiting Macau.
 - **Total Hotel Guests:** The number of check-in guests in hotels.
-- **Total Recipts:** The total amount of revenue in a specific category.
+- **Total Revenue:** The total amount of income in a specific category.
 - **Total F&B Spending:** The total amount of money spent on food and drink.
 - **Total Visitor Spending:** The The total of money spent including Accommodation, Shopping, F&B, Tranports and Others.
 - **Spending Per Capita:** The average amount of money spent by each visitor from one country/ region.
