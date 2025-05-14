@@ -27,7 +27,7 @@ For interactive Tableau dashboard, please [click](https://public.tableau.com/vie
 - **Types of Expenses:** Breakdown of spending on Accommodation, Shopping, Shopping, F&B, Tranports and Others.
 - **Purposes of Visit:** Reasons of visiting Macau.
 - **Revenue by Category:** Main sources of revenue for 5-star hotels.
-- **Types of Cuisine:** Overview of leading cuisine.
+- **Types of Cuisine:** Categorizes the types of food offered.
 
 ---
 
