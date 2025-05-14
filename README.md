@@ -17,7 +17,7 @@ For interactive Tableau dashboard, please [click](https://public.tableau.com/vie
 - **Total F&B Spending:** The total amount of money spent on food and drink.
 - **Total Visitor Spending:** The total spending including Accommodation, Shopping, F&B, Tranports and Others.
 - **Spending Per Capita:** The average amount spent by each visitor from one country or region.
-- **Percent of Total:** a subset of overall total.
+- **Percent of Total:** A subset of overall total.
 - **YoY % Change:** The growth or decline in a specific matrics from year to year.
 
 ### Dimensions
@@ -25,18 +25,18 @@ For interactive Tableau dashboard, please [click](https://public.tableau.com/vie
 - **Types of Transport:** Means of entry (air, land, sea).
 - **Time Period:** Segment data by year.
 - **Types of Expenses:** Breakdown of spending on Accommodation, Shopping, Shopping, F&B, Tranports and Others.
-- **Purposes of Visit:** Reasons of visiting Macau.
+- **Purposes of Visit:** Reasons for visiting Macau.
 - **Revenue by Category:** Main sources of revenue for 5-star hotels.
 - **Types of Cuisine:** Categorizes the types of food offered.
 
 ---
 
 ## Summary of Insights
-**1. Demograhpic Trends:**
+**1. Demographic Trends:**
   - **Primary Markets:**
     - Mainland China (70.12% share, 24.49M visitors) remains the leading source, followed by Hong Kong (20.56% share, 7.18M visitors) and Taiwan (2.39% share, 0.83M visitors).
     - South Korea is the fastest growing market with 140% increase in YoY arrivals. 
-  - **Post-COVID Travel Rebound:** Overall arrivels grew by 24% YoY (vs. 5-7% pre-pandemic). The surge is likely driven by the eased travel restrictions.
+  - **Post-COVID Travel Rebound:** Overall arrivals grew by 24% YoY (vs. 5-7% pre-pandemic). The surge is likely driven by the eased travel restrictions.
 
 
 **2. Visitor Mobility:**
@@ -47,7 +47,7 @@ For interactive Tableau dashboard, please [click](https://public.tableau.com/vie
 **3. Spending Drivers:**
   - **High-Value Segments:** Business travelers and MICE attendees spend more than leisure tourists (indicated by the darkest shades on heat map).
   - **F&B Revenue Drivers:**
-    - Spening Driver: Visitors tend to spend the most on Accommodation and F&B.
+    - Spending Driver: Visitors tend to spend the most on Accommodation and F&B.
     - 5-Star Hotels: In 2023*, The top three contributions are Room Sales (46.15%), Space Rental (23.05%), and F&B (22.49%).
     - Leading Cuisines: In 2023*, Chinese cuisine and local style cafes showed the highest growth at 35.61% and 18.75% respectively.
 
@@ -74,5 +74,5 @@ For interactive Tableau dashboard, please [click](https://public.tableau.com/vie
   - **Hong Kong and Macau:** Leverage the proximity and the higher spending power by offering exclusive, and trendy food experience. promote family-oriented bundles to attract short-haul travelers.
 
 ---
-Remark: This data is updated until 2023.
+*Remark: Some data is updated until 2023.
 
