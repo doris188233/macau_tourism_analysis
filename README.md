@@ -4,8 +4,7 @@ This dashboard provides a comprehensive overview of visitor trends, demographics
 
 For interactive Tableau dashboard, please [click](https://public.tableau.com/views/FBTrend/MacauTourismAnalysisDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
-<img width="1397" alt="Screenshot 2025-05-14 at 3 01 50 PM" src="https://github.com/user-attachments/assets/b7bc3262-2d60-4a12-b8a3-c3888af2d7c9" />
-
+<img width="1397" alt="Screenshot 2025-05-14 at 4 27 33 PM" src="https://github.com/user-attachments/assets/f2ea8ec0-c07b-4ebb-9ec7-41b0064bd39a" />
 
 ---
 
