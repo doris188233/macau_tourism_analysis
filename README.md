@@ -46,7 +46,7 @@ For interactive Tableau dashboard, please [click](https://public.tableau.com/vie
 - **High-Value Segments:** Business travelers and MICE attendees spend more than leisure tourists (indicated by the darkest shades on heat map).
 - **F&B Revenue Drivers:**
   - Spening Driver: Visitors tend to spend the most on Accommodation and F&B.
-  - 5-Star Hotels: In 2023\*, The top three contributions are Room Sales (46.15%), Space Rental\* (23.05%), and F&B (22.49%).
+  - 5-Star Hotels: In 2023*, The top three contributions are Room Sales (46.15%), Space Rental (23.05%), and F&B (22.49%).
   - Leading Cuisine: In 2023*, Chinese cuisine and local style cafes showed the highest growth at 35.61% and 18.75% respectively.
 
 
@@ -60,5 +60,5 @@ For interactive Tableau dashboard, please [click](https://public.tableau.com/vie
 5. **Target Low-growth but High-Potenial Markets:** Hong Kong and Macau have higher spending power. Leverage their proximity by offering exclusive, and trendy food experience, promote family-oriented bundles to attract short-haul travelers.
 
 ---
-***Remark: This data is updated until 2023.
+Remark: This data is updated until 2023.
 
