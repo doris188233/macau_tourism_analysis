@@ -54,29 +54,34 @@ For interactive Tableau dashboard, please [click](https://public.tableau.com/vie
 
 ## Recommendations & Next Steps
 **1. Target High-Growth Markets:**
-  - **South Korea:** Create Korean menu to enhance food diversity. Parnter or sponsor Korean media (e.g.K-show/ K-drama)to enhance visibility.
+  - **South Korea:**
+    - Create Korean menu to enhance food diversity.
+    - Parnter with Korean media (e.g.K-show/ K-drama)to boost visibility.
   - **Mainland China:**
-    - Partner with local influencers ( e.g. Douyin, RED Note) from Guangdong/ Zhejiang to promote restaurants or collaborate with star chefs for food festivals/ events.
+    - Collaborate with Chinese influencers (e.g. Guangdong/ Zhejiang) on Douyin, RED Note.
+    - Host chef-led food festivals to attract gourmet travelers.
    
 **2. Elevate F&B for High Spenders:**
-  - **Business Travelers:** Offer breakfast vouchers or bundle food vouchers with rooms.
-  - **Event Attendees:** Bundle event/concert tickets with rooms and breakfast vouchers.
+  - **Business Travelers:** Buddle breakfast vouchers with rooms bookings.
+  - **Event Attendees:** Offer combo deals (e.g. concert tickets + rooms + dining credits).
 
-**3. Capture Land Arrivals:**
-  - **Border Promotions:** Partner with Hengqin checkpoint to distribute border promotions.
 
-**4. Develop Strategic Partnerships:**
-  - **Local Business Collaboration:** Organize seasonal food festivals featuring with local chefs to encourage longer stays.
+**3. Strategic Partnerships:**
+  - **Partner with local restaurants for seasonal food festivals.
 
-**5. Revitalize Declining Markets:**
+**4. Revitalize Declining Markets:**
   - **Macau:**
-    - People tend to escape to Mainland in the weekends, to offer weekends discount to retain customers from leaving for mainland
-    - Promote family oriented promotion, kids under 8 is free for buffet in weekend, pre-booking is required.
-  - **Hong Kong:** "Birthday gateway" birthday occurs during the month get 20% of travel packag with rooms and food voucher, to attract short-haul travelers by leveraging proximity and their higher spending power.
+    - Offer weekend discounts to compete with mainland trips.
+    - Kids under 8 year old eat free at buffets in weekends only, pre-booking required.
+  - **Hong Kong:**
+    - "Birthday Gateway": 20% off rooms and dining for guests celebrating birthdays, to attract short-haul travelers by leveraging proximity and their higher spending power.
 
-**6. Internal Training:** Train staff to upsell high-margin items.
+**5. Internal Optimization:** 
+  - Train staff to upsell high-margin items.
 
-**7. Progress Tracking:** Determine the measurable metrics to compare the effect (e.g. conversion rate, avg spend per hear, Instagram tags/UGC) or use A/B testing to choose the win version. Design survey to ask guest to rate their experience.
+**6. Track Progress:** 
+  - Determine the measurables (e.g. conversion rate, avg spend per hear, Instagram tags/UGC).
+  - Use A/B testing for promotion and post-experience surveys to refine offers.
 
 ---
 *Remark: Some data is updated until 2023.
