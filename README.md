@@ -1,6 +1,6 @@
 # Macau Tourism Analysis (2023-2024)
 
-This dashboard provides a comprehensive overview of visitor trends, demographics and spending behaviours. It highlights key insights into tourist engagement and spending patterns. The recommendations focus on F&B deliveries in hotel perspective.
+This dashboard provides a comprehensive overview of visitor trends, demographics and spending behaviours. It highlights key insights into tourist engagement and spending patterns. The recommendations focus on F&B sector from a hotel perspective.
 
 For interactive Tableau dashboard, please [click](https://public.tableau.com/views/FBTrend_17471272047420/MacauTourismAnalysisDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
