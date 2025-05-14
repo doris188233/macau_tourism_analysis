@@ -54,13 +54,12 @@ For interactive Tableau dashboard, please [click](https://public.tableau.com/vie
 
 ## Recommendations & Next Steps
 **1. Target High-Growth Markets:**
-  - **South Korea:** Design Korean menu to enhance food diversity.
+  - **South Korea:** Create Korean menu to enhance food diversity. Parnter or sponsor Korean media (e.g.K-show/ K-drama)to enhance visibility.
   - **Mainland China:**
     - Partner with local influencers ( e.g. Douyin, RED Note) from Guangdong/ Zhejiang to promote restaurants or collaborate with star chefs for food festivals/ events.
-    - Bundle with F&B promotions with hotel rooms to drive complementary spending.
-
+   
 **2. Elevate F&B for High Spenders:**
-  - **Business travelers:** Offer breakfast vouchers or bundle food vouchers with rooms.
+  - **Business Travelers:** Offer breakfast vouchers or bundle food vouchers with rooms.
   - **Event Attendees:** Bundle event/concert tickets with rooms and breakfast vouchers.
 
 **3. Capture Land Arrivals:**
@@ -70,7 +69,14 @@ For interactive Tableau dashboard, please [click](https://public.tableau.com/vie
   - **Local Business Collaboration:** Organize seasonal food festivals featuring with local chefs to encourage longer stays.
 
 **5. Revitalize Declining Markets:**
-  - **Hong Kong and Macau:** offering trendy food experience with culture and theme (e.g.. promote family-oriented bundles to attract short-haul travelers, leveraging proximity and the higher spending power.
+  - **Macau:**
+    - People tend to escape to Mainland in the weekends, to offer weekends discount to retain customers from leaving for mainland
+    - Promote family oriented promotion, kids under 8 is free for buffet in weekend, pre-booking is required.
+  - **Hong Kong:** "Birthday gateway" birthday occurs during the month get 20% of travel packag with rooms and food voucher, to attract short-haul travelers by leveraging proximity and their higher spending power.
+
+**6. Internal Training:** Train staff to upsell high-margin items.
+
+**7. Progress Tracking:** Determine the measurable metrics to compare the effect (e.g. conversion rate, avg spend per hear, Instagram tags/UGC) or use A/B testing to choose the win version. Design survey to ask guest to rate their experience.
 
 ---
 *Remark: Some data is updated until 2023.
