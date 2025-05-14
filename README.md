@@ -2,10 +2,9 @@
 
 This dashboard provides a comprehensive overview of visitor trends, demographics and spending behaviours. It highlights key insights into tourist engagement and spending patterns. The recommendations focus on F&B sector from a hotel perspective.
 
-For interactive Tableau dashboard, please [click](https://public.tableau.com/views/FBTrend_17471272047420/MacauTourismAnalysisDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+For interactive Tableau dashboard, please [click](https://public.tableau.com/views/FBTrend/MacauTourismAnalysisDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
-<img width="1399" alt="Macau Tourism Analysis Dashboard" src="https://github.com/user-attachments/assets/bb22019d-5960-499a-bab7-7ce5f70e0218" />
-
+![Macau Tourism Analysis Dashboard (1)](https://github.com/user-attachments/assets/35f69317-af95-4cfd-9e43-8f6980d8b660)
 
 ---
 
