@@ -44,7 +44,7 @@ For interactive Tableau dashboard, please [click](https://public.tableau.com/vie
 - **Hotel Occupancy:** South Korea shows explosive 100.78% YoY growth. However, there is a decline of 16.59% YoY in Hong Kong and 6.85% YoY in Macau.
 
 
-**3. Spending & Expense Drivers:**
+**3. Spending Drivers:**
 - **High-Value Segments:** Business travelers and MICE attendees spend more than leisure tourists (indicated by the darkest shades on heat map).
 - **F&B Revenue Drivers:**
   - Spening Driver: Visitors tend to spend the most on Accommodation and F&B.
