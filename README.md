@@ -21,13 +21,13 @@ For interactive Tableau dashboard, please [click](https://public.tableau.com/vie
 - **YoY % Change:** The growth or decline in a specific matrics from year to year.
 
 ### Dimensions
-- **Visitor Demographics:** Origin(countries/ regions) for visitors.
+- **Origin:** Countries or regions of visitors.
 - **Types of Transport:** Means of entry (air, land, sea).
-- **Time Period:** segment data by year.
+- **Time Period:** Segment data by year.
 - **Types of Expenses:** Breakdown of spending on Accommodation, Shopping, Shopping, F&B, Tranports and Others.
 - **Purposes of Visit:** Reasons of visiting Macau.
 - **Revenue by Category:** Main sources of revenue for 5-star hotels.
-- **Types of Cuisine:** overview of which cuisine types are offered.
+- **Types of Cuisine:** Overview of leading cuisine.
 
 ---
 
