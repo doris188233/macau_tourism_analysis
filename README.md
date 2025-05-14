@@ -33,7 +33,7 @@ For interactive Tableau dashboard, please [click](https://public.tableau.com/vie
 
 ## Summary of Insights
 **1. Demograhpic Trends:**
-- **Primary Markets:**
+>- **Primary Markets:**
   - Mainland China (70.12% share, 24.49M visitors) remains the leading source, followed by Hong Kong (20.56% share, 7.18M visitors) and Taiwan (2.39% share, 0.83M visitors).
   - South Korea is the fastest growing market with 140% increase in YoY arrivals. 
 - **Post-COVID Travel Rebound:** Overall arrivels grew by 24% YoY (vs. 5-7% pre-pandemic). The surge is likely driven by the eased travel restrictions.
