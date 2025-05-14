@@ -39,7 +39,7 @@ For interactive Tableau dashboard, please [click](https://public.tableau.com/vie
   - **Post-COVID Travel Rebound:** Overall arrivels grew by 24% YoY (vs. 5-7% pre-pandemic). The surge is likely driven by the eased travel restrictions.
 
 
-**2. Behaviours:**
+**2. Visitor Mobility:**
   - **Land Arrivals:** Over 87% enter via land borders.
   - **Hotel Occupancy:** South Korea shows explosive 100.78% YoY growth. However, there is a decline of 16.59% YoY in Hong Kong and 6.85% YoY in Macau.
 
@@ -51,15 +51,26 @@ For interactive Tableau dashboard, please [click](https://public.tableau.com/vie
     - 5-Star Hotels: In 2023*, The top three contributions are Room Sales (46.15%), Space Rental (23.05%), and F&B (22.49%).
     - Leading Cuisines: In 2023*, Chinese cuisine and local style cafes showed the highest growth at 35.61% and 18.75% respectively.
 
-
 ---
 
 ## Recommendations & Next Steps
-1. **Target High-growth Regions:** Focus on high-growth regions is our primary focus (e.g.Korea, Taiwan). Tailor marketing efforts to highlight unique offerings and experiences. Partner with their local influencers to launch targeted social media campagins to increase visibility.
-2. **Enhance Dining Experience:** China is the main visitors, prioritize Cantonese dishes or collaborate with star chefs from high-volume regions (e.g. Guangdong and Zhejiang). Bundle with F&B promotion with hotel rooms to drive complementary spending.
-3. **Capture Land Arrivals:** 
-4. **Develop Strategic Parnterships:** Collaborate with local businesses or restaurants (e.g. Macau iconic cultural and historical food) to create comprehensive packages that enhance the visitor experience and encourage longer stays.
-5. **Target Low-growth but High-Potenial Markets:** Hong Kong and Macau have higher spending power. Leverage their proximity by offering exclusive, and trendy food experience, promote family-oriented bundles to attract short-haul travelers.
+**1. Target High-Growth Markets:**
+  - **South Korea:** Design Korean menu to enhance food diverify.
+  - **Mainland China:**
+    - Partner with local influencers ( e.g. Douyin, RED Note) from Guangdong/ Zhejiang to promote restaurants or collaborate with star chefs for food festivals/ events.
+    - Bundle with F&B promotion with hotel rooms to drive complementary spending.
+
+**2. Elevate F&B for High Spenders
+  - **Business travelers:** Offer breakfast vouchers or bundle add-on food vouchers with rooms.
+
+**3. Capture Land Arrivals:**
+  - **Border Promotions: Partner with Hengqin checkpoint to distribute 
+
+**4. Develop Strategic Parnterships:**
+  - **Local Business Partnerships:** Organize seasonal food festivals featuring with local chefs and food to encourage longer stays.
+
+**5. Revitalize Declining Markets:**
+  - **Hong Kong and Macau:** Leverage the proximity and the higher spending power by offering exclusive, and trendy food experience. promote family-oriented bundles to attract short-haul travelers.
 
 ---
 Remark: This data is updated until 2023.
