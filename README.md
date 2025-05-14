@@ -40,16 +40,16 @@ For interactive Tableau dashboard, please [click](https://public.tableau.com/vie
 
 
 **2. Behaviours:**
-- **Land Arrivals:** Over 87% enter via land borders.
-- **Hotel Occupancy:** South Korea shows explosive 100.78% YoY growth. However, there is a decline of 16.59% YoY in Hong Kong and 6.85% YoY in Macau.
+  - **Land Arrivals:** Over 87% enter via land borders.
+  - **Hotel Occupancy:** South Korea shows explosive 100.78% YoY growth. However, there is a decline of 16.59% YoY in Hong Kong and 6.85% YoY in Macau.
 
 
 **3. Spending Drivers:**
-- **High-Value Segments:** Business travelers and MICE attendees spend more than leisure tourists (indicated by the darkest shades on heat map).
-- **F&B Revenue Drivers:**
-  - Spening Driver: Visitors tend to spend the most on Accommodation and F&B.
-  - 5-Star Hotels: In 2023*, The top three contributions are Room Sales (46.15%), Space Rental (23.05%), and F&B (22.49%).
-  - Leading Cuisines: In 2023*, Chinese cuisine and local style cafes showed the highest growth at 35.61% and 18.75% respectively.
+  - **High-Value Segments:** Business travelers and MICE attendees spend more than leisure tourists (indicated by the darkest shades on heat map).
+  - **F&B Revenue Drivers:**
+    - Spening Driver: Visitors tend to spend the most on Accommodation and F&B.
+    - 5-Star Hotels: In 2023*, The top three contributions are Room Sales (46.15%), Space Rental (23.05%), and F&B (22.49%).
+    - Leading Cuisines: In 2023*, Chinese cuisine and local style cafes showed the highest growth at 35.61% and 18.75% respectively.
 
 
 ---
