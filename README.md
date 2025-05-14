@@ -34,7 +34,7 @@ For interactive Tableau dashboard, please [click](https://public.tableau.com/vie
 ## Summary of Insights
 **1. Demograhpic Trends:**
 - **Primary Markets:**
-  - Mainland China (70.12% share, 24.49M visitors) remains the leading source, followed by Hong Kong (20.56% share, 7.18M visitors) and Taiwan(2.39% share, 0.83M visitors).
+  - Mainland China (70.12% share, 24.49M visitors) remains the leading source, followed by Hong Kong (20.56% share, 7.18M visitors) and Taiwan (2.39% share, 0.83M visitors).
   - South Korea is the fastest growing market with 140% increase in YoY arrivals. 
 - **Post-COVID Travel Rebound:** Overall arrivels grew by 24% YoY (vs. 5-7% pre-pandemic). The surge is likely driven by the eased travel restrictions.
 
@@ -46,7 +46,7 @@ For interactive Tableau dashboard, please [click](https://public.tableau.com/vie
 - **High-Value Segments:** Business travelers and MICE attendees spend more than leisure tourists (indicated by the darkest shades on heat map).
 - **F&B Revenue Drivers:**
   - Spening Driver: Visitors tend to spend the most on Accommodation and F&B.
-  - 5-Star Hotels: In 2023*, The top three contributions are Room Sales (46.15%), Space Rental* (23.05%), and F&B (22.49%).
+  - 5-Star Hotels: In 2023\*, The top three contributions are Room Sales (46.15%), Space Rental\* (23.05%), and F&B (22.49%).
   - Leading Cuisine: In 2023*, Chinese cuisine and local style cafes showed the highest growth at 35.61% and 18.75% respectively.
 
 
