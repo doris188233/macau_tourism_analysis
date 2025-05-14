@@ -4,7 +4,8 @@ This dashboard provides a comprehensive overview of visitor trends, demographics
 
 For interactive Tableau dashboard, please [click](https://public.tableau.com/views/FBTrend/MacauTourismAnalysisDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
-<img width="1397" alt="Screenshot 2025-05-14 at 3 01 50 PM" src="https://github.com/user-attachments/assets/f4cebb48-9f3b-4253-9ca6-ff132655e02d" />
+<img width="1397" alt="Screenshot 2025-05-14 at 3 01 50 PM" src="https://github.com/user-attachments/assets/b7bc3262-2d60-4a12-b8a3-c3888af2d7c9" />
+
 
 ---
 
@@ -22,7 +23,7 @@ For interactive Tableau dashboard, please [click](https://public.tableau.com/vie
 ### Dimensions
 - **Origin:** Countries or regions of visitors.
 - **Types of Transport:** Means of entry (air, land, sea).
-- **Time Period:** Segment data by year.
+- **Time Period:** Segment data by year (2023 and 2024)
 - **Types of Expenses:** Breakdown of spending on Accommodation, Shopping, Shopping, F&B, Tranports and Others.
 - **Purposes of Visit:** Reasons for visiting Macau.
 - **Revenue by Category:** Main sources of revenue for 5-star hotels.
@@ -61,7 +62,7 @@ For interactive Tableau dashboard, please [click](https://public.tableau.com/vie
 
 **2. Elevate F&B for High Spenders:**
   - **Business travelers:** Offer breakfast vouchers or bundle food vouchers with rooms.
-  - **Attend Events:** Bundle concert tickets with rooms and breakfast vouchers.
+  - **Event Attendees:** Bundle event/concert tickets with rooms and breakfast vouchers.
 
 **3. Capture Land Arrivals:**
   - **Border Promotions:** Partner with Hengqin checkpoint to distribute border promotions.
@@ -70,7 +71,7 @@ For interactive Tableau dashboard, please [click](https://public.tableau.com/vie
   - **Local Business Collaboration:** Organize seasonal food festivals featuring with local chefs to encourage longer stays.
 
 **5. Revitalize Declining Markets:**
-  - **Hong Kong and Macau:** Leverage the proximity and the higher spending power by offering exclusive, and trendy food experience. promote family-oriented bundles to attract short-haul travelers.
+  - **Hong Kong and Macau:** offering trendy food experience with culture and theme (e.g.. promote family-oriented bundles to attract short-haul travelers, leveraging proximity and the higher spending power.
 
 ---
 *Remark: Some data is updated until 2023.
