@@ -60,6 +60,5 @@ For interactive Tableau dashboard, please [click](https://public.tableau.com/vie
 5. **Target Low-growth but High-Potenial Markets:** Hong Kong and Macau have higher spending power. Leverage their proximity by offering exclusive, and trendy food experience, promote family-oriented bundles to attract short-haul travelers.
 
 ---
-####*Remark: 
-This data is updated until 2023.
+***Remark: This data is updated until 2023.
 
