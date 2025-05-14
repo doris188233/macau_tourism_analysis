@@ -58,16 +58,17 @@ For interactive Tableau dashboard, please [click](https://public.tableau.com/vie
   - **South Korea:** Design Korean menu to enhance food diverify.
   - **Mainland China:**
     - Partner with local influencers ( e.g. Douyin, RED Note) from Guangdong/ Zhejiang to promote restaurants or collaborate with star chefs for food festivals/ events.
-    - Bundle with F&B promotion with hotel rooms to drive complementary spending.
+    - Bundle with F&B promotions with hotel rooms to drive complementary spending.
 
-**2. Elevate F&B for High Spenders
-  - **Business travelers:** Offer breakfast vouchers or bundle add-on food vouchers with rooms.
+**2. Elevate F&B for High Spenders:**
+  - **Business travelers:** Offer breakfast vouchers or bundle food vouchers with rooms.
+  - **Attend Events:** Bunble event tickets with food 
 
 **3. Capture Land Arrivals:**
-  - **Border Promotions: Partner with Hengqin checkpoint to distribute 
+  - **Border Promotions:** Partner with Hengqin checkpoint to distribute border promotions.
 
 **4. Develop Strategic Parnterships:**
-  - **Local Business Partnerships:** Organize seasonal food festivals featuring with local chefs and food to encourage longer stays.
+  - **Local Business Collaboration:** Organize seasonal food festivals featuring with local chefs to encourage longer stays.
 
 **5. Revitalize Declining Markets:**
   - **Hong Kong and Macau:** Leverage the proximity and the higher spending power by offering exclusive, and trendy food experience. promote family-oriented bundles to attract short-haul travelers.
