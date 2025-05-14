@@ -46,7 +46,7 @@ For interactive Tableau dashboard, please [click](https://public.tableau.com/vie
 **3. Spending & Expense Drivers:**
 - **High-Value Segments:** Business travelers and MICE attendees spent more than leisure tourists (darkest shades on heat map).
 - **F&B Revenue Drivers:**
-  - *5-star Hotels: The top three contributions are Room Sales (46.15%), Space Rental (23.05%), and F&B (22.49%).
+  - 5-star Hotels: The top three contributions are Room Sales (46.15%)*, Space Rental (23.05%), and F&B (22.49%).
   - Popualor Cuisine: In 2023, Chinese cuisine and local style cafes have the leading grown in 35.61% and 18.75% respectively.
 
 - **Spending & Expense Drivers:** In 5-star hotels, the top three revenue categories are room sales (46%), space rental (23%), and F&B (22%). Visitors tend to spend the most on accommodation and food. In 2023, revenue from Chinese cuisine experienced the highest increase with over a 35% rise, followed by local cafes at 18% and takeaway services at 14%.
