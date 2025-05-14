@@ -55,19 +55,19 @@ For interactive Tableau dashboard, please [click](https://public.tableau.com/vie
 
 ## Recommendations & Next Steps
 **1. Target High-Growth Markets:**
-  - **South Korea:** Design Korean menu to enhance food diverify.
+  - **South Korea:** Design Korean menu to enhance food diversity.
   - **Mainland China:**
     - Partner with local influencers ( e.g. Douyin, RED Note) from Guangdong/ Zhejiang to promote restaurants or collaborate with star chefs for food festivals/ events.
     - Bundle with F&B promotions with hotel rooms to drive complementary spending.
 
 **2. Elevate F&B for High Spenders:**
   - **Business travelers:** Offer breakfast vouchers or bundle food vouchers with rooms.
-  - **Attend Events:** Bunble event tickets with food 
+  - **Attend Events:** Bundle concert tickets with rooms and breakfast vouchers.
 
 **3. Capture Land Arrivals:**
   - **Border Promotions:** Partner with Hengqin checkpoint to distribute border promotions.
 
-**4. Develop Strategic Parnterships:**
+**4. Develop Strategic Partnerships:**
   - **Local Business Collaboration:** Organize seasonal food festivals featuring with local chefs to encourage longer stays.
 
 **5. Revitalize Declining Markets:**
