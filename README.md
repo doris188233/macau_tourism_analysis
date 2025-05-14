@@ -34,7 +34,8 @@ For interactive Tableau dashboard, please [click](https://public.tableau.com/vie
 ## Summary of Insights
 **1. Demograhpic Trends:**
 - **Primary Markets:**
-  - Mainland China(70.12% share, 24.49M) remains the leading source,
+  - Mainland China(70.12% share, 24.49M visitors) remains the leading source,followed by Hong Kong (20.56% share, 7.18M visitors) and Taiwan.
+  - Korea (▲140% YoY) is the fastest growing market
    
 - **Demographic Trends:** China remains the leading source of visitors to Macau, followed by Hong Kong and Taiwan. Korea has the highest growth 140% compared to 2023. YoY % change in overall arrivals from 2023 to 2024 is nearly 24%, a significant rise compared to the pre-COVID average change 5%-7%. The surge is likely resulted of the eased travel restrictions. **Due to COVID-19, entry restrictions began in early 2020 and eased by end of 2022. 
 - **Demographic and Behavior:** Over 87% of visitors arrive by land, with Hong Kong and Macau guest numbers declining while South Korea shows explosive 100%+ YoY growth. The heat map reveals business travelers, MICE attendees, and events (darker shades) consistently spend more across all origin markets. 
