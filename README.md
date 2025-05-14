@@ -35,11 +35,18 @@ For interactive Tableau dashboard, please [click](https://public.tableau.com/vie
 **1. Demograhpic Trends:**
 - **Primary Markets:**
   - Mainland China(70.12% share, 24.49M visitors) remains the leading source, followed by Hong Kong (20.56% share, 7.18M visitors) and Taiwan(2.39% share, 0.83M visitors).
-  - Korea is the fastest growing market with 140% grow in YoY. 
+  - South Korea is the fastest growing market with 140% grow in YoY. 
 - **Post-COVID Travel Rebound:** Overall arrivels grew 24% YoY (vs. 5-7% pre-pandemic). The surge is likely driven by the eased travel restrictions.
 
-- **Demographic Trends:** China remains the leading source of visitors to Macau, followed by Hong Kong and Taiwan. Korea has the highest growth 140% compared to 2023. YoY % change in overall arrivals from 2023 to 2024 is nearly 24%, a significant rise compared to the pre-COVID average change 5%-7%. The surge is likely resulted of the eased travel restrictions. **Due to COVID-19, entry restrictions began in early 2020 and eased by end of 2022. 
-- **Demographic and Behavior:** Over 87% of visitors arrive by land, with Hong Kong and Macau guest numbers declining while South Korea shows explosive 100%+ YoY growth. The heat map reveals business travelers, MICE attendees, and events (darker shades) consistently spend more across all origin markets. 
+
+**2. Behaviours:**
+- **Land Arrivals:** Over 87% enter via land borders.
+- **Hotel Occupancy:** South Korea shows explosive 100.78% YoY growth. However, a decline of 16.59% YoY and 6.85% YoY in Hong Kong and Macau respectively.
+
+**3. Spending & Expense Drivers:**
+- **High-Value Segments:** Business travelers and MICE attendees spent more than leisure tourists (darkest shades on heat map).
+
+
 - **Spending & Expense Drivers:** In 5-star hotels, the top three revenue categories are room sales (46%), space rental (23%), and F&B (22%). Visitors tend to spend the most on accommodation and food. In 2023, revenue from Chinese cuisine experienced the highest increase with over a 35% rise, followed by local cafes at 18% and takeaway services at 14%.
 
 ---
