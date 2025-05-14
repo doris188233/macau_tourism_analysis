@@ -38,9 +38,11 @@ For interactive Tableau dashboard, please [click](https://public.tableau.com/vie
   - South Korea is the fastest growing market with 140% increase in YoY arrivals. 
 - **Post-COVID Travel Rebound:** Overall arrivels grew by 24% YoY (vs. 5-7% pre-pandemic). The surge is likely driven by the eased travel restrictions.
 
+
 **2. Behaviours:**
 - **Land Arrivals:** Over 87% enter via land borders.
 - **Hotel Occupancy:** South Korea shows explosive 100.78% YoY growth. However, there is a decline of 16.59% YoY in Hong Kong and 6.85% YoY in Macau.
+
 
 **3. Spending & Expense Drivers:**
 - **High-Value Segments:** Business travelers and MICE attendees spend more than leisure tourists (indicated by the darkest shades on heat map).
