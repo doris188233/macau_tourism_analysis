@@ -67,7 +67,7 @@ For interactive Tableau dashboard, please [click](https://public.tableau.com/vie
 
 
 **3. Strategic Partnerships:**
-  - **Partner with local restaurants for seasonal food festivals.
+  - Partner with local restaurants for seasonal food festivals.
 
 **4. Revitalize Declining Markets:**
   - **Macau:**
