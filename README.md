@@ -72,12 +72,12 @@ For interactive Tableau dashboard, please [click](https://public.tableau.com/vie
 **4. Revitalize Declining Markets:**
   - **Macau:**
     - Offer weekend discounts to compete with mainland trips.
-    - Kids under 8 year old eat free at buffets in weekends only, pre-booking required.
+    - Kids under 8 year old eat free at buffets in weekends only, seniors over 65 and above enjoy 15% discount. Pre-booking required.
   - **Hong Kong:**
-    - "Birthday Gateway": 20% off rooms and dining for guests celebrating birthdays, to attract short-haul travelers by leveraging proximity and their higher spending power.
+    - "Birthday Gateway": 20% off rooms + dining for guests celebrating birthdays, to attract short-haul travelers by leveraging proximity and their higher spending power.
 
 **5. Internal Optimization:** 
-  - Train staff to upsell high-margin items.
+  - Train staffs to upsell high-margin items.
 
 **6. Track Progress:** 
   - Determine the measurables (e.g. conversion rate, avg spend per hear, Instagram tags/UGC).
